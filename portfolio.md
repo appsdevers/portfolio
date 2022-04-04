@@ -5,7 +5,10 @@
 ## WEB PROJECTS ###
 
 ## MOBILE PROJECTS ###
-Xylo: https://play.google.com/store/apps/details?id=com.appsdevers.regain.app
+Xylo: https://play.google.com/store/apps/details?id=com.appsdevers.regain.app  
+    Application de Xylophone rappelant l'histoire des notes de musique classique.   
+       Xylophone application reminding the history of classical music notes.
 
-CoroNews: Application Full Stack affichant en tant réel:  les statistiques liées au Covid-19 dans plus de 256 pays, les news, les différents moyens de prévention, une vidéo explicative des différents moyens de contamination, un numero  d'appel d'urgence disponible. Elle est disponible en 4 langues (Francais, Anglais, Espagnol, Allemand).
+CoroNews: https://github.com/appsdevers/coroNews.git  
+           Application Full Stack affichant en tant réel:  les statistiques liées au Covid-19 dans plus de 256 pays, les news, les différents moyens de prévention, une vidéo explicative des différents moyens de contamination, un numero  d'appel d'urgence pré-enregistré. Elle est disponible en 4 langues (Français, Anglais, Espagnol, Allemand).
 
