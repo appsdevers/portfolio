@@ -12,3 +12,7 @@ Xylo: https://play.google.com/store/apps/details?id=com.appsdevers.regain.app
 CoroNews: https://github.com/appsdevers/coroNews.git  
            Application Full Stack affichant en tant réel:  les statistiques liées au Covid-19 dans plus de 256 pays, les news, les différents moyens de prévention, une vidéo explicative des différents moyens de contamination, un numero  d'appel d'urgence pré-enregistré. Elle est disponible en 4 langues (Français, Anglais, Espagnol, Allemand).
 
+## BACK-END
+Vidly: Films Rental Project with Unit Test, Integrating, TDD [ Node-Express-Mongo-Jwt-Jest-Heroku-GitHub-Mlab ]   
+Folio: Mobile PortFolio Back-End with Unit Test, Integrating, TDD      [ Node-Express-Mongo-Jwt-Jest-Heroku-GitHub-Slack-Jira ]   
+NetFlix: Full NetFlix Back-End with Unit Test, Integrating, TDD [ Node-Express-Mongo-Jwt-Jest-Heroku-GitHub ] 
