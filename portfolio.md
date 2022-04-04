@@ -15,4 +15,4 @@ CoroNews: https://github.com/appsdevers/coroNews.git
 ## BACK-END
 Vidly: Films Rental Project with Unit Test, Integrating, TDD [ Node-Express-Mongo-Jwt-Jest-Heroku-GitHub-Mlab ]   
 Folio: Mobile PortFolio Back-End with Unit Test, Integrating, TDD      [ Node-Express-Mongo-Jwt-Jest-Heroku-GitHub-Slack-Jira ]   
-NetFlix: Full NetFlix Back-End with Unit Test, Integrating, TDD [ Node-Express-Mongo-Jwt-Jest-Heroku-GitHub ] 
+NetFlix: Full NetFlix Video Back-End with Unit Test, Integrating, TDD [ Node-Express-Mongo-Jwt-Jest-Heroku-GitHub ] 
