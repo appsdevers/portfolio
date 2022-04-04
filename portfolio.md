@@ -5,6 +5,9 @@
 ## WEB PROJECTS ###
 
 ## MOBILE PROJECTS ###
+Folio:   
+  Portfolio mobile montrant les projets Web, Mobile et UX\UI Desgin  realisés. 
+
 Xylo: https://play.google.com/store/apps/details?id=com.appsdevers.regain.app  
     Application de Xylophone rappelant l'histoire des notes de musique classique.   
        Xylophone application reminding the history of classical music notes.
