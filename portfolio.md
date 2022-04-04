@@ -6,7 +6,8 @@
 
 ## MOBILE PROJECTS ###
 Folio:   
-  Application mobile Full Stack montrant mes différentes réalisations Web, Mobile et UX\UI Desgin. 
+  Application mobile Full Stack avec un admin panel montrant mes différentes réalisations Web, Mobile et UX\UI Desgin.   
+  Full Stack mobile application with an admin panel showing my differents Web, Mobile and UX\UI Desgin achievements.
 
 Xylo: https://play.google.com/store/apps/details?id=com.appsdevers.regain.app  
     Application de Xylophone rappelant l'histoire des notes de musique classique.   
