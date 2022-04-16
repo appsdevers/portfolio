@@ -25,5 +25,7 @@ Min-Chat:
 ## BACK-END
 Vidly: Films Rental Project with Unit Test, Integrating, TDD [ Node-Express-Mongo-Jwt-Jest-Heroku-GitHub-Mlab ]   
 Folio: Mobile PortFolio Back-End with Unit Test, Integrating, TDD      [ Node-Express-Mongo-Jwt-Jest-Heroku-GitHub-Slack-Jira ]   
-NetFlix: Full NetFlix Video Back-End with Unit Test, Integrating, TDD [ Node-Express-Mongo-Jwt-Jest-Heroku-GitHub ]    
+NetFlix: Full NetFlix Video Back-End with Unit Test, Integrating, TDD [ Node-Express-Mongo-Jwt-Jest-Heroku-GitHub ]
+HotelRental: Full Bull Rental Back-End with Unit Test, Integrating, TDD [ Node-Express-Mongo-Jwt-Jest-Heroku-GitHub ]   
+BusRental: Full Bull Rental Back-End with Unit Test, Integrating, TDD [ Node-Express-Mongo-Jwt-Jest-Heroku-GitHub ]   
 NewsApi, NewsCatcher, MediaStack, corona.lmao.ninja/v2/ API, Google Maps Places API, GlobaGiving API, Trello API
