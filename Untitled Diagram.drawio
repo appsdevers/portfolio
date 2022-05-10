@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-10T16:39:29.869Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39" etag="4P3UzikIXMr0JcD_P5cB" version="18.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-10T18:59:05.260Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39" etag="A5lKbZj2LqmgG0S_gG0C" version="18.0.2" type="github">
   <diagram id="gPcOBo8kpesIldpiL-uF" name="Page-1">
     <mxGraphModel dx="1038" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -52,14 +52,29 @@
         <mxCell id="owPv3PRb5_aLN4KaXjo2-21" value="add ROOM add HOTEL.single.hotelId add SERVICE.multiple.serviceId" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="220" y="390" width="390" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="owPv3PRb5_aLN4KaXjo2-22" value="delete ROOM delete HOTEL.single.hotelId delete ROOM." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="245" y="440" width="320" height="20" as="geometry" />
+        <mxCell id="owPv3PRb5_aLN4KaXjo2-22" value="delete ROOM delete HOTEL.single.hotelId delete SERVICE.multiple.roomId." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="440" width="420" height="20" as="geometry" />
         </mxCell>
         <mxCell id="owPv3PRb5_aLN4KaXjo2-23" value="add SERVICE.single&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="675" y="360" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="owPv3PRb5_aLN4KaXjo2-24" value="delete SERVICE delete ROOM.serviceId.multiple" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="620" y="390" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="owPv3PRb5_aLN4KaXjo2-25" value="RESERVATION&lt;br&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="400" y="550" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="owPv3PRb5_aLN4KaXjo2-26" value="ROOM" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="130" y="590" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="owPv3PRb5_aLN4KaXjo2-27" value="CUSTOMER" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="740" y="550" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="owPv3PRb5_aLN4KaXjo2-28" value="add RESERVATION add ROOM.single.roomId add CUSTOMER.single.customerId" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="245" y="670" width="450" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="owPv3PRb5_aLN4KaXjo2-29" value="delete RESERVATION delete ROOM.multiple.reservationHotelId&amp;nbsp; delete CUSTOMER.single.customerId" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="182.5" y="690" width="570" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
