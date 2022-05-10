@@ -1,44 +1,65 @@
-<mxfile host="app.diagrams.net" modified="2022-05-10T15:59:15.011Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39" etag="GItmzP_R1iutw35wDw40" version="18.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-10T16:39:29.869Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39" etag="4P3UzikIXMr0JcD_P5cB" version="18.0.2" type="github">
   <diagram id="gPcOBo8kpesIldpiL-uF" name="Page-1">
     <mxGraphModel dx="1038" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="owPv3PRb5_aLN4KaXjo2-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="680" width="80" height="80" as="geometry" />
+          <mxGeometry x="690" y="10" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="owPv3PRb5_aLN4KaXjo2-2" value="Services&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="690" y="80" width="60" height="20" as="geometry" />
+          <mxGeometry x="700" y="40" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="owPv3PRb5_aLN4KaXjo2-3" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="400" y="120" width="80" height="80" as="geometry" />
+          <mxGeometry x="380" y="110" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="owPv3PRb5_aLN4KaXjo2-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="120" y="230" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="owPv3PRb5_aLN4KaXjo2-5" value="Rooms&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="415" y="210" width="50" height="20" as="geometry" />
+          <mxGeometry x="400" y="200" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="owPv3PRb5_aLN4KaXjo2-6" value="Hotel&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="140" y="320" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="owPv3PRb5_aLN4KaXjo2-7" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="405" y="230" width="75" height="100" as="geometry" />
+          <mxGeometry x="382.5" y="230" width="75" height="100" as="geometry" />
         </mxCell>
         <mxCell id="owPv3PRb5_aLN4KaXjo2-9" value="DELETE&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="412.5" y="270" width="60" height="20" as="geometry" />
+          <mxGeometry x="390" y="270" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="owPv3PRb5_aLN4KaXjo2-11" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="682.5" y="100" width="75" height="100" as="geometry" />
+          <mxGeometry x="682.5" y="120" width="75" height="100" as="geometry" />
         </mxCell>
         <mxCell id="owPv3PRb5_aLN4KaXjo2-12" value="DELETE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="690" y="140" width="60" height="20" as="geometry" />
+          <mxGeometry x="690" y="160" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="owPv3PRb5_aLN4KaXjo2-13" value="Loop Through =&amp;gt; Each Room&lt;br&gt;Verify Room Contain Service Id&lt;br&gt;Delete &lt;br&gt;*Service Id in Room and&lt;br&gt;Save Room&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="630" y="195" width="180" height="80" as="geometry" />
+          <mxGeometry x="640" y="230" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="owPv3PRb5_aLN4KaXjo2-14" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="560" y="10" width="40" height="20" as="geometry" />
+        <mxCell id="owPv3PRb5_aLN4KaXjo2-15" value="DELETE SINGLE&lt;br&gt;DELETE MULTIPLE&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="10" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="owPv3PRb5_aLN4KaXjo2-16" value="ADD SINGLE&lt;br&gt;ADD MULTIPLE&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="10" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="owPv3PRb5_aLN4KaXjo2-17" value="UPDATE SINGLE&lt;br&gt;UPDATE MULTIPLE&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="10" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="owPv3PRb5_aLN4KaXjo2-19" value="add ROOM add HOTEL.single.hotelId&amp;nbsp;add SERVICE.single.serviceId" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="360" width="380" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="owPv3PRb5_aLN4KaXjo2-21" value="add ROOM add HOTEL.single.hotelId add SERVICE.multiple.serviceId" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="390" width="390" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="owPv3PRb5_aLN4KaXjo2-22" value="delete ROOM delete HOTEL.single.hotelId delete ROOM." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="245" y="440" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="owPv3PRb5_aLN4KaXjo2-23" value="add SERVICE.single&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="675" y="360" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="owPv3PRb5_aLN4KaXjo2-24" value="delete SERVICE delete ROOM.serviceId.multiple" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="620" y="390" width="280" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
