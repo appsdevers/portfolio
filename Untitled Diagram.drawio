@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-13T17:18:53.059Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39" etag="uYawxLaxoBKRO-1spJT5" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-13T18:53:38.099Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39" etag="EV6GC54SlwMWVmh5-0a4" version="18.0.3" type="github">
   <diagram id="gPcOBo8kpesIldpiL-uF" name="Page-1">
     <mxGraphModel dx="1888" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -205,8 +205,8 @@
         <mxCell id="ZHRB_8m8od1e3UjntDkE-48" value="customerId: [Customer]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry y="750" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ZHRB_8m8od1e3UjntDkE-49" value="reservationId: Reservation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="730" width="160" height="20" as="geometry" />
+        <mxCell id="ZHRB_8m8od1e3UjntDkE-49" value="reservationHotelId: ReservationHotel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-35" y="730" width="210" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZHRB_8m8od1e3UjntDkE-50" value="Customer" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;direction=east;" vertex="1" parent="1">
           <mxGeometry x="445" y="1260" width="60" height="45" as="geometry" />
@@ -319,9 +319,6 @@
         <mxCell id="ZHRB_8m8od1e3UjntDkE-79" value="WALLET" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="210" y="1560" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ZHRB_8m8od1e3UjntDkE-80" value="FACTURE" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="400" y="1580" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="ZHRB_8m8od1e3UjntDkE-82" value="busId: [Bus]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="275" y="1320" width="80" height="20" as="geometry" />
         </mxCell>
@@ -392,13 +389,25 @@
           <mxGeometry x="30" y="50" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZHRB_8m8od1e3UjntDkE-114" value="2.Cardinalites" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ZHRB_8m8od1e3UjntDkE-102">
-          <mxGeometry x="30" y="90" width="90" height="20" as="geometry" />
+          <mxGeometry x="30" y="80" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHRB_8m8od1e3UjntDkE-115" value="3.Se presente dans APPLI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ZHRB_8m8od1e3UjntDkE-102">
+          <mxGeometry x="30" y="110" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZHRB_8m8od1e3UjntDkE-112" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZHRB_8m8od1e3UjntDkE-79" target="ZHRB_8m8od1e3UjntDkE-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="470" y="1380" as="sourcePoint" />
             <mxPoint x="520" y="1330" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ZHRB_8m8od1e3UjntDkE-116" value="customerId: Customer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="45" y="1620" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHRB_8m8od1e3UjntDkE-117" value="reservationBusId: ReservationBus" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1650" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHRB_8m8od1e3UjntDkE-118" value="reservationBusId: ReservationBus" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-37" y="710" width="200" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
