@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-19T23:53:16.697Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.47" etag="AHoIlJohtAttjA6DSIrL" version="18.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-19T23:57:38.480Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.47" etag="3ycyfq1Sx575yWMoMSWT" version="18.0.8" type="github">
   <diagram id="gPcOBo8kpesIldpiL-uF" name="Page-1">
     <mxGraphModel dx="1888" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -575,7 +575,7 @@
           <mxGeometry x="-499" y="200" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uTtTGR-UZZ-zgDmQaFNv-5" value="Vertical Container" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="-800" y="130" width="205" height="200" as="geometry" />
+          <mxGeometry x="-800" y="130" width="205" height="340" as="geometry" />
         </mxCell>
         <mxCell id="uTtTGR-UZZ-zgDmQaFNv-6" value="CountryPicker =&amp;gt; Back__Connection" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="uTtTGR-UZZ-zgDmQaFNv-5">
           <mxGeometry x="-5" y="30" width="210" height="20" as="geometry" />
@@ -591,6 +591,12 @@
         </mxCell>
         <mxCell id="uTtTGR-UZZ-zgDmQaFNv-12" value="=&amp;gt; Back__Connection" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="uTtTGR-UZZ-zgDmQaFNv-5">
           <mxGeometry x="80" y="100" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uTtTGR-UZZ-zgDmQaFNv-13" value="FavoriteTabBar" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="uTtTGR-UZZ-zgDmQaFNv-5">
+          <mxGeometry x="10" y="170" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uTtTGR-UZZ-zgDmQaFNv-14" value="Orders / Cart Scaffold" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="uTtTGR-UZZ-zgDmQaFNv-5">
+          <mxGeometry x="10" y="200" width="130" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
