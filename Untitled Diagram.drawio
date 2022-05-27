@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-27T23:12:40.563Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53" etag="7sBwAnBbuiNdtaCVg8kt" version="18.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-27T23:13:21.468Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53" etag="kAlEKTYTric7ZwphmQt4" version="18.1.3" type="github">
   <diagram id="gPcOBo8kpesIldpiL-uF" name="Page-1">
     <mxGraphModel dx="2150" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -611,7 +611,10 @@
           <mxGeometry x="40" y="45" width="230" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EvTjdRCJKDRj3wAb93OK-7" value="Calculate RoomPrice = AllServices.Price" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="EvTjdRCJKDRj3wAb93OK-4">
-          <mxGeometry x="-10" y="70" width="230" height="20" as="geometry" />
+          <mxGeometry x="40" y="70" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EvTjdRCJKDRj3wAb93OK-8" value="Hotel.Favorite.User" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="EvTjdRCJKDRj3wAb93OK-4">
+          <mxGeometry x="10" y="100" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EvTjdRCJKDRj3wAb93OK-6" value="Remove - Hotel - RemoveRooms - RemoveServices - RemoveReservation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-480" y="410" width="410" height="20" as="geometry" />
